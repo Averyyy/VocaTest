@@ -25,12 +25,12 @@ pip3 install pyttsx3
 
 ## 优缺点
 
-😄 熟手快速过单词
-😄 重复单词容易记忆
+😄 熟手快速过单词  
+😄 重复单词容易记忆  
 😄 自定义程度比较高 （高情商
 
-😅 二十分钟写的简陋程序 （低情商
-😅 pronunciation 功能（optional）无 async 处理会阻塞
+😅 二十分钟写的简陋程序 （低情商  
+😅 pronunciation 功能（optional）无 async 处理会阻塞  
 😅 命令行小黑框框没有 GUI
 
 ## 如何使用？
