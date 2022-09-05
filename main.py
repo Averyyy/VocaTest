@@ -1,6 +1,5 @@
 from genericpath import exists
 import json
-import os
 import random
 from gtts import gTTS
 from playsound import playsound
