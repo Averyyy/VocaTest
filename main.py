@@ -7,8 +7,8 @@ from playsound import playsound
 import pyttsx3
 
 pronounciationEnabled = False
-glossary = '生词本.json'
-num_iter = 1
+glossary = 'voca.json'
+num_iter = 32
 
 def both_know(select_word, weight):
     if select_word in weight.keys():
