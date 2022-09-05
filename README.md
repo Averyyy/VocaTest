@@ -63,3 +63,7 @@ Enjoy！
 
 - 用 pygame 整个 GUI 出来
 - 解决 async pronunciation
+
+## License
+
+This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
